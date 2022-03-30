@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+# This repository give some basic introduction to bash scripts and shell
