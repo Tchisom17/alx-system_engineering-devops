@@ -1,3 +1,2 @@
-<<EOF
 #!/bin/bash
 chmod -R 711
